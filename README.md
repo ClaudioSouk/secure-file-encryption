@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure File Encryption and Decryption System
 
 ## Overview
@@ -60,3 +61,7 @@ This is a sensitive piece of information that needs encryption.
 
 ## License
 This project is licensed under the MIT License.
+=======
+# secure-file-encryption
+A Python project demonstrating secure file encryption and decryption using the cryptography library.
+>>>>>>> bfadd95ffbbe0f24c3772e19551172718185b0fa
